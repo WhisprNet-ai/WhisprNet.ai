@@ -188,4 +188,4 @@ You can obtain a token by authenticating through the `/api/auth/login` endpoint.
 
 ## License
 
-Proprietary and Confidential. Not for distribution. 
+Proprietary and Confidential. Not for distribution
