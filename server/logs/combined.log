@@ -1,0 +1,959 @@
+2025-05-11 14:50:22:5022 [INFO] [server] Initializing server...
+2025-05-11 14:50:22:5022 [INFO] [server] Queue workers initialized
+2025-05-11 14:50:22:5022 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 14:50:22:5022 [INFO] [server] Database connection established
+2025-05-11 14:50:22:5022 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 14:50:22:5022 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 14:50:22:5022 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 14:50:22:5022 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 14:50:22:5022 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 14:50:28:5028 [WARN] HTTP GET /api/slack/users - 401 (356ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":401,"responseTime":"356ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 14:50:29:5029 [WARN] HTTP GET /api/organizations/current/members - 401 (1ms) {"method":"GET","url":"/api/organizations/current/members","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 14:50:29:5029 [WARN] HTTP GET /api/managers/permissions - 401 (1ms) {"method":"GET","url":"/api/managers/permissions","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 14:51:51:5151 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 14:59:03:593 [INFO] [server] Initializing server...
+2025-05-11 14:59:03:593 [INFO] [server] Queue workers initialized
+2025-05-11 14:59:03:593 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 14:59:03:593 [INFO] [server] Database connection established
+2025-05-11 14:59:03:593 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 14:59:03:593 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 14:59:03:593 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 14:59:03:593 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 14:59:03:593 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:04:20:420 [INFO] [server] Initializing server...
+2025-05-11 15:04:20:420 [INFO] [server] Queue workers initialized
+2025-05-11 15:04:20:420 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:04:20:420 [INFO] [server] Database connection established
+2025-05-11 15:04:20:420 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:04:20:420 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:04:20:420 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:04:20:420 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:04:20:420 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:04:33:433 [INFO] [server] Initializing server...
+2025-05-11 15:04:33:433 [INFO] [server] Queue workers initialized
+2025-05-11 15:04:33:433 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:04:33:433 [INFO] [server] Database connection established
+2025-05-11 15:04:33:433 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:04:33:433 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:04:33:433 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:04:33:433 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:04:33:433 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:04:35:435 [INFO] [server] Initializing server...
+2025-05-11 15:04:35:435 [INFO] [server] Queue workers initialized
+2025-05-11 15:04:35:435 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:04:35:435 [INFO] [server] Database connection established
+2025-05-11 15:04:35:435 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:04:35:435 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:04:35:435 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:04:35:435 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:04:35:435 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:11:09:119 [INFO] [server] Initializing server...
+2025-05-11 15:11:09:119 [INFO] [server] Queue workers initialized
+2025-05-11 15:11:09:119 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:11:09:119 [INFO] [server] Database connection established
+2025-05-11 15:11:09:119 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:11:09:119 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:11:09:119 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:11:09:119 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:11:09:119 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:11:15:1115 [INFO] [server] Initializing server...
+2025-05-11 15:11:15:1115 [INFO] [server] Queue workers initialized
+2025-05-11 15:11:15:1115 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:11:15:1115 [INFO] [server] Database connection established
+2025-05-11 15:11:15:1115 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:11:15:1115 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:11:15:1115 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:11:15:1115 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:11:15:1115 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:11:18:1118 [INFO] [server] Initializing server...
+2025-05-11 15:11:18:1118 [INFO] [server] Queue workers initialized
+2025-05-11 15:11:18:1118 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:11:18:1118 [INFO] [server] Database connection established
+2025-05-11 15:11:18:1118 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:11:18:1118 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:11:18:1118 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:11:18:1118 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:11:18:1118 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/slack/users - 401 (359ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":401,"responseTime":"359ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/slack/users - 401 (355ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":401,"responseTime":"355ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/slack/users - 401 (359ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":401,"responseTime":"359ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/organizations/current/members - 401 (1ms) {"method":"GET","url":"/api/organizations/current/members","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/managers/permissions - 401 (1ms) {"method":"GET","url":"/api/managers/permissions","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/organizations/current/members - 401 (2ms) {"method":"GET","url":"/api/organizations/current/members","ip":"::1","statusCode":401,"responseTime":"2ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/managers/permissions - 401 (2ms) {"method":"GET","url":"/api/managers/permissions","ip":"::1","statusCode":401,"responseTime":"2ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/organizations/current/members - 401 (1ms) {"method":"GET","url":"/api/organizations/current/members","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/managers/permissions - 401 (0ms) {"method":"GET","url":"/api/managers/permissions","ip":"::1","statusCode":401,"responseTime":"0ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/managers/available-integrations - 401 (1ms) {"method":"GET","url":"/api/managers/available-integrations","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/managers/available-integrations - 401 (1ms) {"method":"GET","url":"/api/managers/available-integrations","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:04:124 [WARN] HTTP GET /api/managers/available-integrations - 401 (0ms) {"method":"GET","url":"/api/managers/available-integrations","ip":"::1","statusCode":401,"responseTime":"0ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:28:1228 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 15:12:33:1233 [INFO] [server] Initializing server...
+2025-05-11 15:12:33:1233 [INFO] [server] Queue workers initialized
+2025-05-11 15:12:33:1233 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:12:33:1233 [INFO] [server] Database connection established
+2025-05-11 15:12:33:1233 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:12:33:1233 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:12:33:1233 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:12:33:1233 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:12:33:1233 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:12:48:1248 [WARN] HTTP GET /api/slack/users - 401 (320ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":401,"responseTime":"320ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:12:48:1248 [WARN] HTTP GET /api/organizations/current/members - 401 (1ms) {"method":"GET","url":"/api/organizations/current/members","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:48:1248 [WARN] HTTP GET /api/managers/permissions - 401 (0ms) {"method":"GET","url":"/api/managers/permissions","ip":"::1","statusCode":401,"responseTime":"0ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:12:48:1248 [WARN] HTTP GET /api/managers/available-integrations - 401 (2ms) {"method":"GET","url":"/api/managers/available-integrations","ip":"::1","statusCode":401,"responseTime":"2ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 15:16:13:1613 [INFO] [server] Initializing server...
+2025-05-11 15:16:13:1613 [INFO] [server] Queue workers initialized
+2025-05-11 15:16:13:1613 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:16:13:1613 [INFO] [server] Database connection established
+2025-05-11 15:16:13:1613 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:16:13:1613 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:16:13:1613 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:16:13:1613 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:16:13:1613 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:16:38:1638 [INFO] [server] Initializing server...
+2025-05-11 15:16:38:1638 [INFO] [server] Queue workers initialized
+2025-05-11 15:16:38:1638 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:16:38:1638 [INFO] [server] Database connection established
+2025-05-11 15:16:38:1638 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:16:38:1638 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:16:38:1638 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:16:38:1638 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:16:38:1638 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:16:40:1640 [INFO] [server] Initializing server...
+2025-05-11 15:16:40:1640 [INFO] [server] Queue workers initialized
+2025-05-11 15:16:40:1640 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:16:40:1640 [INFO] [server] Database connection established
+2025-05-11 15:16:40:1640 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:16:40:1640 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:16:40:1640 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:16:40:1640 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:16:40:1640 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:17:13:1713 [INFO] [server] Initializing server...
+2025-05-11 15:17:13:1713 [INFO] [server] Queue workers initialized
+2025-05-11 15:17:13:1713 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:17:13:1713 [INFO] [server] Database connection established
+2025-05-11 15:17:13:1713 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:17:13:1713 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:17:13:1713 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:17:13:1713 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:17:13:1713 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:17:17:1717 [INFO] [server] Initializing server...
+2025-05-11 15:17:17:1717 [INFO] [server] Queue workers initialized
+2025-05-11 15:17:17:1717 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:17:17:1717 [INFO] [server] Database connection established
+2025-05-11 15:17:17:1717 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:17:17:1717 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:17:17:1717 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:17:17:1717 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:17:17:1717 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:18:12:1812 [INFO] [server] Initializing server...
+2025-05-11 15:18:12:1812 [INFO] [server] Queue workers initialized
+2025-05-11 15:18:12:1812 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:18:12:1812 [INFO] [server] Database connection established
+2025-05-11 15:18:12:1812 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:18:12:1812 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:18:12:1812 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:18:12:1812 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:18:12:1812 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:18:31:1831 [INFO] [server] Initializing server...
+2025-05-11 15:18:31:1831 [INFO] [server] Queue workers initialized
+2025-05-11 15:18:31:1831 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:18:31:1831 [INFO] [server] Database connection established
+2025-05-11 15:18:31:1831 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:18:31:1831 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:18:31:1831 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:18:31:1831 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:18:31:1831 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:18:33:1833 [INFO] [server] Initializing server...
+2025-05-11 15:18:33:1833 [INFO] [server] Queue workers initialized
+2025-05-11 15:18:33:1833 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:18:33:1833 [INFO] [server] Database connection established
+2025-05-11 15:18:33:1833 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:18:33:1833 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:18:33:1833 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:18:33:1833 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:18:33:1833 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:18:47:1847 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 15:19:25:1925 [INFO] [server] Initializing server...
+2025-05-11 15:19:25:1925 [INFO] [server] Queue workers initialized
+2025-05-11 15:19:25:1925 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:19:25:1925 [INFO] [server] Database connection established
+2025-05-11 15:19:25:1925 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:19:25:1925 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:19:25:1925 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:19:25:1925 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:19:25:1925 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:22:29:2229 [WARN] HTTP POST /api/managers/assign - 404 (16ms) {"method":"POST","url":"/api/managers/assign","ip":"::1","statusCode":404,"responseTime":"16ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:22:47:2247 [INFO] [server] Initializing server...
+2025-05-11 15:22:47:2247 [INFO] [server] Queue workers initialized
+2025-05-11 15:22:47:2247 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:22:47:2247 [INFO] [server] Database connection established
+2025-05-11 15:22:47:2247 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:22:47:2247 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:22:47:2247 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:22:47:2247 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:22:47:2247 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:22:50:2250 [INFO] [server] Initializing server...
+2025-05-11 15:22:50:2250 [INFO] [server] Queue workers initialized
+2025-05-11 15:22:50:2250 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:22:50:2250 [INFO] [server] Database connection established
+2025-05-11 15:22:50:2250 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:22:50:2250 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:22:50:2250 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:22:50:2250 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:22:50:2250 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:22:53:2253 [INFO] [server] Initializing server...
+2025-05-11 15:22:53:2253 [INFO] [server] Queue workers initialized
+2025-05-11 15:22:53:2253 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:22:53:2253 [INFO] [server] Database connection established
+2025-05-11 15:22:53:2253 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:22:53:2253 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:22:53:2253 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:22:53:2253 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:22:53:2253 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:22:57:2257 [INFO] [server] Initializing server...
+2025-05-11 15:22:57:2257 [INFO] [server] Queue workers initialized
+2025-05-11 15:22:57:2257 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:22:57:2257 [INFO] [server] Database connection established
+2025-05-11 15:22:57:2257 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:22:57:2257 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:22:57:2257 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:22:57:2257 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:22:57:2257 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:23:01:231 [INFO] [server] Initializing server...
+2025-05-11 15:23:01:231 [INFO] [server] Queue workers initialized
+2025-05-11 15:23:01:231 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:23:01:231 [INFO] [server] Database connection established
+2025-05-11 15:23:01:231 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:23:01:231 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:23:01:231 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:23:01:231 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:23:01:231 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:23:32:2332 [INFO] [server] Initializing server...
+2025-05-11 15:23:32:2332 [INFO] [server] Queue workers initialized
+2025-05-11 15:23:32:2332 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:23:32:2332 [INFO] [server] Database connection established
+2025-05-11 15:23:32:2332 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:23:32:2332 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:23:32:2332 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:23:32:2332 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:23:32:2332 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:25:32:2532 [INFO] [server] Initializing server...
+2025-05-11 15:25:32:2532 [INFO] [server] Queue workers initialized
+2025-05-11 15:25:32:2532 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:25:32:2532 [INFO] [server] Database connection established
+2025-05-11 15:25:32:2532 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:25:32:2532 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:25:32:2532 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:25:32:2532 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:25:32:2532 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:26:07:267 [INFO] [server] Initializing server...
+2025-05-11 15:26:07:267 [INFO] [server] Queue workers initialized
+2025-05-11 15:26:07:267 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:26:07:267 [INFO] [server] Database connection established
+2025-05-11 15:26:07:267 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:26:07:267 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:26:07:267 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:26:07:267 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:26:07:267 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:26:23:2623 [INFO] [server] Initializing server...
+2025-05-11 15:26:23:2623 [INFO] [server] Queue workers initialized
+2025-05-11 15:26:23:2623 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:26:23:2623 [INFO] [server] Database connection established
+2025-05-11 15:26:23:2623 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:26:23:2623 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:26:23:2623 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:26:23:2623 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:26:23:2623 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:26:51:2651 [INFO] [server] Initializing server...
+2025-05-11 15:26:51:2651 [INFO] [server] Queue workers initialized
+2025-05-11 15:26:51:2651 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:26:51:2651 [INFO] [server] Database connection established
+2025-05-11 15:26:51:2651 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:26:51:2651 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:26:51:2651 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:26:51:2651 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:26:51:2651 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:28:47:2847 [INFO] [server] Initializing server...
+2025-05-11 15:28:47:2847 [INFO] [server] Queue workers initialized
+2025-05-11 15:28:47:2847 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:28:47:2847 [INFO] [server] Database connection established
+2025-05-11 15:28:47:2847 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:28:47:2847 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:28:47:2847 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:28:47:2847 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:28:47:2847 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:28:51:2851 [INFO] [server] Initializing server...
+2025-05-11 15:28:51:2851 [INFO] [server] Queue workers initialized
+2025-05-11 15:28:51:2851 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:28:51:2851 [INFO] [server] Database connection established
+2025-05-11 15:28:51:2851 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:28:51:2851 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:28:51:2851 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:28:51:2851 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:28:51:2851 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:41:28:4128 [ERROR] HTTP GET /api/slack/users - 500 (492ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"492ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:41:44:4144 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 15:41:48:4148 [INFO] [server] Initializing server...
+2025-05-11 15:41:48:4148 [INFO] [server] Queue workers initialized
+2025-05-11 15:41:48:4148 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:41:48:4148 [INFO] [server] Database connection established
+2025-05-11 15:41:48:4148 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:41:48:4148 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:41:48:4148 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:41:48:4148 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:41:48:4148 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:41:52:4152 [ERROR] HTTP GET /api/slack/users - 500 (506ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"506ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:41:52:4152 [ERROR] HTTP GET /api/slack/users - 500 (715ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"715ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:41:53:4153 [ERROR] HTTP GET /api/slack/users - 500 (432ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"432ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:09:439 [ERROR] HTTP GET /api/slack/users - 500 (307ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"307ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:13:4313 [ERROR] HTTP GET /api/slack/users - 500 (265ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"265ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:14:4314 [ERROR] HTTP GET /api/slack/users - 500 (446ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"446ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:26:4326 [ERROR] HTTP GET /api/slack/users - 500 (297ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"297ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:26:4326 [ERROR] HTTP GET /api/slack/users - 500 (509ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"509ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:26:4326 [ERROR] HTTP GET /api/slack/users - 500 (246ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"246ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:27:4327 [ERROR] HTTP GET /api/slack/users - 500 (267ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"267ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:28:4328 [ERROR] HTTP GET /api/slack/users - 500 (569ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"569ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:29:4329 [ERROR] HTTP GET /api/slack/users - 500 (511ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"511ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:29:4329 [ERROR] HTTP GET /api/slack/users - 500 (523ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"523ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:31:4331 [ERROR] HTTP GET /api/slack/users - 500 (241ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"241ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:31:4331 [ERROR] HTTP GET /api/slack/users - 500 (448ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"448ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:31:4331 [ERROR] HTTP GET /api/slack/users - 500 (241ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"241ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:31:4331 [ERROR] HTTP GET /api/slack/users - 500 (241ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"241ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:43:46:4346 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 15:43:49:4349 [INFO] [server] Initializing server...
+2025-05-11 15:43:49:4349 [INFO] [server] Queue workers initialized
+2025-05-11 15:43:49:4349 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:43:49:4349 [INFO] [server] Database connection established
+2025-05-11 15:43:49:4349 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:43:49:4349 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:43:49:4349 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:43:49:4349 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:43:49:4349 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:45:24:4524 [ERROR] HTTP GET /api/slack/users - 500 (436ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"436ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:49:08:498 [ERROR] HTTP GET /api/slack/users - 500 (290ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"290ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:49:13:4913 [ERROR] HTTP GET /api/slack/users - 500 (246ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"246ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:49:34:4934 [ERROR] HTTP GET /api/slack/users - 500 (295ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"295ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:50:38:5038 [ERROR] HTTP GET /api/slack/users - 500 (238ms) {"method":"GET","url":"/api/slack/users","ip":"::1","statusCode":500,"responseTime":"238ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 15:51:03:513 [INFO] [server] Initializing server...
+2025-05-11 15:51:03:513 [INFO] [server] Queue workers initialized
+2025-05-11 15:51:03:513 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 15:51:03:513 [INFO] [server] Database connection established
+2025-05-11 15:51:03:513 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 15:51:03:513 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 15:51:03:513 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 15:51:03:513 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 15:51:03:513 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 15:58:37:5837 [WARN] HTTP POST /api/managers/assign - 404 (36ms) {"method":"POST","url":"/api/managers/assign","ip":"::1","statusCode":404,"responseTime":"36ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 16:04:54:454 [WARN] HTTP POST /api/managers/assign - 404 (18ms) {"method":"POST","url":"/api/managers/assign","ip":"::1","statusCode":404,"responseTime":"18ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 16:53:30:5330 [INFO] [server] Initializing server...
+2025-05-11 16:53:30:5330 [INFO] [server] Queue workers initialized
+2025-05-11 16:53:30:5330 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 16:53:30:5330 [INFO] [server] Database connection established
+2025-05-11 16:53:30:5330 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 16:53:30:5330 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 16:53:30:5330 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 16:53:30:5330 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 16:53:30:5330 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 16:57:44:5744 [WARN] HTTP GET /api/dashboard/integrations/status - 401 (1ms) {"method":"GET","url":"/api/dashboard/integrations/status","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 16:58:07:587 [WARN] HTTP GET /api/dashboard/integrations/status - 401 (1ms) {"method":"GET","url":"/api/dashboard/integrations/status","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 16:58:07:587 [WARN] HTTP GET /api/dashboard/integrations/status - 401 (1ms) {"method":"GET","url":"/api/dashboard/integrations/status","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 16:58:07:587 [WARN] HTTP GET /api/dashboard/integrations/status - 401 (0ms) {"method":"GET","url":"/api/dashboard/integrations/status","ip":"::1","statusCode":401,"responseTime":"0ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 16:58:07:587 [WARN] HTTP GET /api/dashboard/integrations/status - 401 (0ms) {"method":"GET","url":"/api/dashboard/integrations/status","ip":"::1","statusCode":401,"responseTime":"0ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 17:04:39:439 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 17:04:43:443 [INFO] [server] Initializing server...
+2025-05-11 17:04:43:443 [INFO] [server] Queue workers initialized
+2025-05-11 17:04:43:443 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:04:43:443 [INFO] [server] Database connection established
+2025-05-11 17:04:43:443 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:04:43:443 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:04:43:443 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:04:43:443 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:04:43:443 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:14:01:141 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 17:14:18:1418 [INFO] [server] Initializing server...
+2025-05-11 17:14:18:1418 [INFO] [server] Queue workers initialized
+2025-05-11 17:14:18:1418 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:14:18:1418 [INFO] [server] Database connection established
+2025-05-11 17:14:19:1419 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:14:19:1419 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:14:19:1419 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:14:19:1419 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:14:20:1420 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:26:40:2640 [WARN] HTTP POST /api/managers/assign - 404 (34ms) {"method":"POST","url":"/api/managers/assign","ip":"::1","statusCode":404,"responseTime":"34ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 17:26:51:2651 [WARN] HTTP POST /api/managers/assign - 404 (13ms) {"method":"POST","url":"/api/managers/assign","ip":"::1","statusCode":404,"responseTime":"13ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 17:34:07:347 [WARN] HTTP POST /api/managers/assign - 404 (40ms) {"method":"POST","url":"/api/managers/assign","ip":"::1","statusCode":404,"responseTime":"40ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 17:38:02:382 [INFO] [server] Initializing server...
+2025-05-11 17:38:02:382 [INFO] [server] Queue workers initialized
+2025-05-11 17:38:02:382 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:38:02:382 [INFO] [server] Database connection established
+2025-05-11 17:38:02:382 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:38:02:382 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:38:02:382 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:38:02:382 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:38:02:382 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:42:47:4247 [INFO] [server] Initializing server...
+2025-05-11 17:42:47:4247 [INFO] [server] Queue workers initialized
+2025-05-11 17:42:47:4247 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:42:47:4247 [INFO] [server] Database connection established
+2025-05-11 17:42:47:4247 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:42:47:4247 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:42:47:4247 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:42:47:4247 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:42:47:4247 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:42:49:4249 [INFO] [server] Initializing server...
+2025-05-11 17:42:49:4249 [INFO] [server] Queue workers initialized
+2025-05-11 17:42:49:4249 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:42:49:4249 [INFO] [server] Database connection established
+2025-05-11 17:42:49:4249 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:42:49:4249 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:42:49:4249 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:42:49:4249 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:42:49:4249 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:42:58:4258 [INFO] [server] Initializing server...
+2025-05-11 17:42:58:4258 [INFO] [server] Queue workers initialized
+2025-05-11 17:42:58:4258 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:42:58:4258 [INFO] [server] Database connection established
+2025-05-11 17:42:58:4258 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:42:58:4258 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:42:58:4258 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:42:58:4258 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:42:58:4258 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:43:02:432 [INFO] [server] Initializing server...
+2025-05-11 17:43:02:432 [INFO] [server] Queue workers initialized
+2025-05-11 17:43:02:432 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:43:02:432 [INFO] [server] Database connection established
+2025-05-11 17:43:02:432 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:43:02:432 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:43:02:432 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:43:02:432 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:43:02:432 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:43:30:4330 [INFO] [server] Initializing server...
+2025-05-11 17:43:30:4330 [INFO] [server] Queue workers initialized
+2025-05-11 17:43:30:4330 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:43:30:4330 [INFO] [server] Database connection established
+2025-05-11 17:43:30:4330 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:43:30:4330 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:43:30:4330 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:43:30:4330 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:43:30:4330 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:43:47:4347 [INFO] [server] Initializing server...
+2025-05-11 17:43:47:4347 [INFO] [server] Queue workers initialized
+2025-05-11 17:43:47:4347 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:43:47:4347 [INFO] [server] Database connection established
+2025-05-11 17:43:47:4347 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:43:47:4347 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:43:47:4347 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:43:47:4347 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:43:47:4347 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:43:53:4353 [INFO] [server] Initializing server...
+2025-05-11 17:43:53:4353 [INFO] [server] Queue workers initialized
+2025-05-11 17:43:53:4353 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:43:53:4353 [INFO] [server] Database connection established
+2025-05-11 17:43:53:4353 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:43:53:4353 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:43:54:4354 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:43:54:4354 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:43:54:4354 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:44:04:444 [INFO] [server] Initializing server...
+2025-05-11 17:44:04:444 [INFO] [server] Queue workers initialized
+2025-05-11 17:44:04:444 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:44:04:444 [INFO] [server] Database connection established
+2025-05-11 17:44:04:444 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:44:04:444 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:44:04:444 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:44:04:444 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:44:04:444 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:44:25:4425 [INFO] [server] Initializing server...
+2025-05-11 17:44:25:4425 [INFO] [server] Queue workers initialized
+2025-05-11 17:44:25:4425 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:44:26:4426 [INFO] [server] Database connection established
+2025-05-11 17:44:26:4426 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:44:26:4426 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:44:26:4426 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:44:26:4426 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:44:26:4426 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:44:32:4432 [INFO] [server] Initializing server...
+2025-05-11 17:44:32:4432 [INFO] [server] Queue workers initialized
+2025-05-11 17:44:32:4432 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:44:32:4432 [INFO] [server] Database connection established
+2025-05-11 17:44:32:4432 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:44:32:4432 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:44:32:4432 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:44:32:4432 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:44:32:4432 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:44:44:4444 [INFO] [server] Initializing server...
+2025-05-11 17:44:44:4444 [INFO] [server] Queue workers initialized
+2025-05-11 17:44:44:4444 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:44:44:4444 [INFO] [server] Database connection established
+2025-05-11 17:44:44:4444 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:44:44:4444 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:44:44:4444 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:44:44:4444 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:44:44:4444 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:44:59:4459 [INFO] [server] Initializing server...
+2025-05-11 17:44:59:4459 [INFO] [server] Queue workers initialized
+2025-05-11 17:44:59:4459 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:44:59:4459 [INFO] [server] Database connection established
+2025-05-11 17:44:59:4459 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:44:59:4459 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:44:59:4459 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:44:59:4459 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:44:59:4459 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:47:06:476 [WARN] HTTP POST /api/users/create-from-external - 404 (80ms) {"method":"POST","url":"/api/users/create-from-external","ip":"::1","statusCode":404,"responseTime":"80ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 17:52:04:524 [INFO] [server] Initializing server...
+2025-05-11 17:52:04:524 [INFO] [server] Queue workers initialized
+2025-05-11 17:52:04:524 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:52:04:524 [INFO] [server] Database connection established
+2025-05-11 17:52:04:524 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:52:04:524 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:52:04:524 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:52:04:524 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:52:04:524 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:52:23:5223 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 17:52:25:5225 [INFO] [server] Initializing server...
+2025-05-11 17:52:25:5225 [INFO] [server] Queue workers initialized
+2025-05-11 17:52:25:5225 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:52:25:5225 [INFO] [server] Database connection established
+2025-05-11 17:52:25:5225 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:52:26:5226 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:52:26:5226 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:52:26:5226 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:52:26:5226 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:52:53:5253 [WARN] HTTP POST /api/users/create-from-external - 403 (22ms) {"method":"POST","url":"/api/users/create-from-external","ip":"::1","statusCode":403,"responseTime":"22ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 17:54:49:5449 [INFO] [server] Initializing server...
+2025-05-11 17:54:49:5449 [INFO] [server] Queue workers initialized
+2025-05-11 17:54:49:5449 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:54:49:5449 [INFO] [server] Database connection established
+2025-05-11 17:54:49:5449 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:54:49:5449 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:54:49:5449 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:54:49:5449 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:54:49:5449 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:55:40:5540 [INFO] [server] Initializing server...
+2025-05-11 17:55:40:5540 [INFO] [server] Queue workers initialized
+2025-05-11 17:55:40:5540 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:55:40:5540 [INFO] [server] Database connection established
+2025-05-11 17:55:40:5540 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:55:40:5540 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:55:40:5540 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:55:40:5540 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:55:40:5540 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:55:53:5553 [INFO] [server] Initializing server...
+2025-05-11 17:55:53:5553 [INFO] [server] Queue workers initialized
+2025-05-11 17:55:53:5553 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:55:53:5553 [INFO] [server] Database connection established
+2025-05-11 17:55:53:5553 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:55:53:5553 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:55:53:5553 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:55:53:5553 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:55:53:5553 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:56:19:5619 [WARN] HTTP POST /api/users/create-from-external - 403 (26ms) {"method":"POST","url":"/api/users/create-from-external","ip":"::1","statusCode":403,"responseTime":"26ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 17:58:14:5814 [INFO] [server] Initializing server...
+2025-05-11 17:58:14:5814 [INFO] [server] Queue workers initialized
+2025-05-11 17:58:14:5814 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:58:14:5814 [INFO] [server] Database connection established
+2025-05-11 17:58:14:5814 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:58:14:5814 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:58:14:5814 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:58:14:5814 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:58:14:5814 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:58:26:5826 [WARN] HTTP POST /api/users/create-from-external - 403 (42ms) {"method":"POST","url":"/api/users/create-from-external","ip":"::1","statusCode":403,"responseTime":"42ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 17:59:12:5912 [INFO] [server] Initializing server...
+2025-05-11 17:59:12:5912 [INFO] [server] Queue workers initialized
+2025-05-11 17:59:12:5912 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 17:59:12:5912 [INFO] [server] Database connection established
+2025-05-11 17:59:12:5912 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 17:59:12:5912 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 17:59:12:5912 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 17:59:12:5912 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 17:59:12:5912 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 17:59:26:5926 [WARN] HTTP POST /api/users/create-from-external - 403 (59ms) {"method":"POST","url":"/api/users/create-from-external","ip":"::1","statusCode":403,"responseTime":"59ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 18:02:26:226 [INFO] [server] Initializing server...
+2025-05-11 18:02:26:226 [INFO] [server] Queue workers initialized
+2025-05-11 18:02:26:226 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:02:26:226 [INFO] [server] Database connection established
+2025-05-11 18:02:26:226 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:02:26:226 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:02:26:226 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:02:26:226 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:02:26:226 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:02:40:240 [INFO] [server] Initializing server...
+2025-05-11 18:02:40:240 [INFO] [server] Queue workers initialized
+2025-05-11 18:02:40:240 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:02:40:240 [INFO] [server] Database connection established
+2025-05-11 18:02:40:240 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:02:40:240 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:02:41:241 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:02:41:241 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:02:41:241 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:04:04:44 [INFO] [server] Initializing server...
+2025-05-11 18:04:04:44 [INFO] [server] Queue workers initialized
+2025-05-11 18:04:04:44 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:04:04:44 [INFO] [server] Database connection established
+2025-05-11 18:04:04:44 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:04:04:44 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:04:04:44 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:04:04:44 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:04:04:44 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:04:18:418 [ERROR] HTTP POST /api/users/create-from-external - 500 (96ms) {"method":"POST","url":"/api/users/create-from-external","ip":"::1","statusCode":500,"responseTime":"96ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 18:06:15:615 [INFO] [server] Initializing server...
+2025-05-11 18:06:15:615 [INFO] [server] Queue workers initialized
+2025-05-11 18:06:15:615 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:06:15:615 [INFO] [server] Database connection established
+2025-05-11 18:06:15:615 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:06:15:615 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:06:15:615 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:06:15:615 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:06:15:615 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:08:00:80 [INFO] [server] Initializing server...
+2025-05-11 18:08:00:80 [INFO] [server] Queue workers initialized
+2025-05-11 18:08:00:80 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:08:01:81 [INFO] [server] Database connection established
+2025-05-11 18:08:01:81 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:08:01:81 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:08:01:81 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:08:01:81 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:08:01:81 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:08:11:811 [INFO] [server] Initializing server...
+2025-05-11 18:08:11:811 [INFO] [server] Queue workers initialized
+2025-05-11 18:08:11:811 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:08:11:811 [INFO] [server] Database connection established
+2025-05-11 18:08:11:811 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:08:11:811 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:08:11:811 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:08:11:811 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:08:11:811 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:08:21:821 [INFO] [server] Initializing server...
+2025-05-11 18:08:21:821 [INFO] [server] Queue workers initialized
+2025-05-11 18:08:21:821 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:08:21:821 [INFO] [server] Database connection established
+2025-05-11 18:08:21:821 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:08:21:821 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:08:21:821 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:08:21:821 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:08:21:821 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:08:27:827 [ERROR] HTTP POST /api/users/create-from-external - 500 (154ms) {"method":"POST","url":"/api/users/create-from-external","ip":"::1","statusCode":500,"responseTime":"154ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 18:09:42:942 [INFO] [server] Initializing server...
+2025-05-11 18:09:42:942 [INFO] [server] Queue workers initialized
+2025-05-11 18:09:42:942 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:09:42:942 [INFO] [server] Database connection established
+2025-05-11 18:09:42:942 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:09:42:942 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:09:42:942 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:09:42:942 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:09:42:942 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:11:30:1130 [ERROR] HTTP POST /api/users/create-from-external - 500 (142ms) {"method":"POST","url":"/api/users/create-from-external","ip":"::1","statusCode":500,"responseTime":"142ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-11 18:11:58:1158 [INFO] [server] Received shutdown signal, closing connections...
+2025-05-11 18:12:01:121 [INFO] [server] Initializing server...
+2025-05-11 18:12:01:121 [INFO] [server] Queue workers initialized
+2025-05-11 18:12:01:121 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:12:01:121 [INFO] [server] Database connection established
+2025-05-11 18:12:01:121 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:12:01:121 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:12:01:121 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:12:01:121 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:12:01:121 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:12:51:1251 [INFO] [server] Initializing server...
+2025-05-11 18:12:51:1251 [INFO] [server] Queue workers initialized
+2025-05-11 18:12:51:1251 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:12:51:1251 [INFO] [server] Database connection established
+2025-05-11 18:12:51:1251 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:12:51:1251 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:12:51:1251 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:12:51:1251 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:12:51:1251 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:12:59:1259 [INFO] [server] Initializing server...
+2025-05-11 18:12:59:1259 [INFO] [server] Queue workers initialized
+2025-05-11 18:12:59:1259 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:12:59:1259 [INFO] [server] Database connection established
+2025-05-11 18:12:59:1259 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:12:59:1259 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:12:59:1259 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:12:59:1259 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:12:59:1259 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:13:15:1315 [INFO] [server] Initializing server...
+2025-05-11 18:13:15:1315 [INFO] [server] Queue workers initialized
+2025-05-11 18:13:15:1315 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:13:15:1315 [INFO] [server] Database connection established
+2025-05-11 18:13:15:1315 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:13:15:1315 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:13:15:1315 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:13:15:1315 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:13:15:1315 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:13:36:1336 [INFO] [server] Initializing server...
+2025-05-11 18:13:36:1336 [INFO] [server] Queue workers initialized
+2025-05-11 18:13:36:1336 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:13:36:1336 [INFO] [server] Database connection established
+2025-05-11 18:13:36:1336 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:13:36:1336 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:13:36:1336 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:13:36:1336 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:13:36:1336 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:17:34:1734 [INFO] [server] Initializing server...
+2025-05-11 18:17:34:1734 [INFO] [server] Queue workers initialized
+2025-05-11 18:17:34:1734 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:17:34:1734 [INFO] [server] Database connection established
+2025-05-11 18:17:34:1734 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:17:34:1734 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:17:34:1734 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:17:34:1734 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:17:34:1734 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:17:47:1747 [INFO] [server] Initializing server...
+2025-05-11 18:17:47:1747 [INFO] [server] Queue workers initialized
+2025-05-11 18:17:47:1747 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:17:47:1747 [INFO] [server] Database connection established
+2025-05-11 18:17:47:1747 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:17:47:1747 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:17:47:1747 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:17:47:1747 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:17:47:1747 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:21:52:2152 [INFO] [server] Initializing server...
+2025-05-11 18:21:52:2152 [INFO] [server] Queue workers initialized
+2025-05-11 18:21:52:2152 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:21:52:2152 [INFO] [server] Database connection established
+2025-05-11 18:21:52:2152 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:21:52:2152 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:21:52:2152 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:21:52:2152 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:21:52:2152 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:22:04:224 [INFO] [server] Initializing server...
+2025-05-11 18:22:04:224 [INFO] [server] Queue workers initialized
+2025-05-11 18:22:04:224 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:22:04:224 [INFO] [server] Database connection established
+2025-05-11 18:22:04:224 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:22:04:224 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:22:04:224 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:22:04:224 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:22:04:224 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:30:07:307 [INFO] [server] Initializing server...
+2025-05-11 18:30:07:307 [INFO] [server] Queue workers initialized
+2025-05-11 18:30:07:307 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:30:07:307 [INFO] [server] Database connection established
+2025-05-11 18:30:07:307 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:30:07:307 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:30:07:307 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:30:07:307 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:30:07:307 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:30:22:3022 [INFO] [server] Initializing server...
+2025-05-11 18:30:22:3022 [INFO] [server] Queue workers initialized
+2025-05-11 18:30:22:3022 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:30:22:3022 [INFO] [server] Database connection established
+2025-05-11 18:30:22:3022 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:30:22:3022 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:30:22:3022 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:30:22:3022 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:30:22:3022 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:30:39:3039 [INFO] [server] Initializing server...
+2025-05-11 18:30:39:3039 [INFO] [server] Queue workers initialized
+2025-05-11 18:30:39:3039 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:30:39:3039 [INFO] [server] Database connection established
+2025-05-11 18:30:39:3039 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:30:39:3039 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:30:39:3039 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:30:39:3039 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:30:39:3039 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:30:42:3042 [INFO] [server] Initializing server...
+2025-05-11 18:30:42:3042 [INFO] [server] Queue workers initialized
+2025-05-11 18:30:42:3042 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 18:30:42:3042 [INFO] [server] Database connection established
+2025-05-11 18:30:42:3042 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 18:30:42:3042 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 18:30:42:3042 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 18:30:42:3042 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 18:30:42:3042 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 18:38:44:3844 [WARN] HTTP GET /api/invitations/accept/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MjA5ZmE2NDhmYmE3YWE1NGE3ZjBhMCIsImlhdCI6MTc0Njk2ODQ4NiwiZXhwIjoxNzQ3MDU0ODg2fQ.DcgdbWPn0e1uP8b2vNF_r-V6ToukiHjY5DPXs8TYHWw - 404 (9ms) {"method":"GET","url":"/api/invitations/accept/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MjA5ZmE2NDhmYmE3YWE1NGE3ZjBhMCIsImlhdCI6MTc0Njk2ODQ4NiwiZXhwIjoxNzQ3MDU0ODg2fQ.DcgdbWPn0e1uP8b2vNF_r-V6ToukiHjY5DPXs8TYHWw","ip":"::1","statusCode":404,"responseTime":"9ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 18:38:54:3854 [WARN] HTTP GET /api/invitations/accept/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MjA5ZmE2NDhmYmE3YWE1NGE3ZjBhMCIsImlhdCI6MTc0Njk2ODQ4NiwiZXhwIjoxNzQ3MDU0ODg2fQ.DcgdbWPn0e1uP8b2vNF_r-V6ToukiHjY5DPXs8TYHWw - 404 (5ms) {"method":"GET","url":"/api/invitations/accept/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MjA5ZmE2NDhmYmE3YWE1NGE3ZjBhMCIsImlhdCI6MTc0Njk2ODQ4NiwiZXhwIjoxNzQ3MDU0ODg2fQ.DcgdbWPn0e1uP8b2vNF_r-V6ToukiHjY5DPXs8TYHWw","ip":"::1","statusCode":404,"responseTime":"5ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 18:50:55:5055 [WARN] HTTP GET /invitations/accept/3RMNJKa2GrKZ-faCJSnHrgKg2l8Gg8Nn - 404 (2ms) {"method":"GET","url":"/invitations/accept/3RMNJKa2GrKZ-faCJSnHrgKg2l8Gg8Nn","ip":"::1","statusCode":404,"responseTime":"2ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 21:10:16:1016 [WARN] HTTP GET /api/invitations/accept/nFMO1kgUfrKIShtf4bVfh5kZSSj-z4lc - 404 (15ms) {"method":"GET","url":"/api/invitations/accept/nFMO1kgUfrKIShtf4bVfh5kZSSj-z4lc","ip":"::1","statusCode":404,"responseTime":"15ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 21:10:36:1036 [WARN] HTTP GET /api/invitations/accept/nFMO1kgUfrKIShtf4bVfh5kZSSj-z4lc - 404 (12ms) {"method":"GET","url":"/api/invitations/accept/nFMO1kgUfrKIShtf4bVfh5kZSSj-z4lc","ip":"::1","statusCode":404,"responseTime":"12ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 21:18:10:1810 [WARN] HTTP GET /api/invitations/accept/nFMO1kgUfrKIShtf4bVfh5kZSSj-z4lc - 404 (8ms) {"method":"GET","url":"/api/invitations/accept/nFMO1kgUfrKIShtf4bVfh5kZSSj-z4lc","ip":"::1","statusCode":404,"responseTime":"8ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 21:20:07:207 [WARN] HTTP GET /api/invitations/accept/nFMO1kgUfrKIShtf4bVfh5kZSSj-z4lc - 404 (8ms) {"method":"GET","url":"/api/invitations/accept/nFMO1kgUfrKIShtf4bVfh5kZSSj-z4lc","ip":"::1","statusCode":404,"responseTime":"8ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 21:39:34:3934 [INFO] [server] Initializing server...
+2025-05-11 21:39:34:3934 [INFO] [server] Queue workers initialized
+2025-05-11 21:39:34:3934 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 21:39:35:3935 [INFO] [server] Database connection established
+2025-05-11 21:39:35:3935 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 21:39:35:3935 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 21:39:35:3935 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 21:39:35:3935 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 21:39:35:3935 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 21:41:23:4123 [INFO] [server] Initializing server...
+2025-05-11 21:41:24:4124 [INFO] [server] Queue workers initialized
+2025-05-11 21:41:24:4124 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 21:41:24:4124 [INFO] [server] Database connection established
+2025-05-11 21:41:24:4124 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 21:41:24:4124 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 21:41:24:4124 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 21:41:24:4124 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 21:41:24:4124 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 21:41:38:4138 [INFO] [server] Initializing server...
+2025-05-11 21:41:38:4138 [INFO] [server] Queue workers initialized
+2025-05-11 21:41:38:4138 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 21:41:38:4138 [INFO] [server] Database connection established
+2025-05-11 21:41:38:4138 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 21:41:38:4138 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 21:41:38:4138 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 21:41:38:4138 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 21:41:38:4138 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 21:41:49:4149 [INFO] [server] Initializing server...
+2025-05-11 21:41:49:4149 [INFO] [server] Queue workers initialized
+2025-05-11 21:41:49:4149 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 21:41:49:4149 [INFO] [server] Database connection established
+2025-05-11 21:41:49:4149 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 21:41:49:4149 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 21:41:49:4149 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 21:41:49:4149 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 21:41:49:4149 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 21:57:00:570 [WARN] HTTP GET /api/invitations/accept/dFtmA7ysiHHV2pscTXXnjhvUbSuypgSS - 404 (10ms) {"method":"GET","url":"/api/invitations/accept/dFtmA7ysiHHV2pscTXXnjhvUbSuypgSS","ip":"::1","statusCode":404,"responseTime":"10ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 21:57:00:570 [WARN] HTTP GET /api/invitations/accept/dFtmA7ysiHHV2pscTXXnjhvUbSuypgSS - 404 (4ms) {"method":"GET","url":"/api/invitations/accept/dFtmA7ysiHHV2pscTXXnjhvUbSuypgSS","ip":"::1","statusCode":404,"responseTime":"4ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-11 22:31:00:310 [INFO] [server] Initializing server...
+2025-05-11 22:31:00:310 [INFO] [server] Queue workers initialized
+2025-05-11 22:31:00:310 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:31:00:310 [INFO] [server] Database connection established
+2025-05-11 22:31:00:310 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:31:00:310 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:31:00:310 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:31:00:310 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:31:00:310 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:31:33:3133 [INFO] [server] Initializing server...
+2025-05-11 22:31:33:3133 [INFO] [server] Queue workers initialized
+2025-05-11 22:31:33:3133 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:31:33:3133 [INFO] [server] Database connection established
+2025-05-11 22:31:33:3133 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:31:33:3133 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:31:33:3133 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:31:33:3133 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:31:33:3133 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:31:35:3135 [INFO] [server] Initializing server...
+2025-05-11 22:31:35:3135 [INFO] [server] Queue workers initialized
+2025-05-11 22:31:35:3135 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:31:35:3135 [INFO] [server] Database connection established
+2025-05-11 22:31:35:3135 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:31:35:3135 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:31:35:3135 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:31:35:3135 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:31:35:3135 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:31:47:3147 [INFO] [server] Initializing server...
+2025-05-11 22:31:47:3147 [INFO] [server] Queue workers initialized
+2025-05-11 22:31:47:3147 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:31:47:3147 [INFO] [server] Database connection established
+2025-05-11 22:31:47:3147 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:31:47:3147 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:31:47:3147 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:31:47:3147 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:31:47:3147 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:34:46:3446 [INFO] [server] Initializing server...
+2025-05-11 22:34:46:3446 [INFO] [server] Queue workers initialized
+2025-05-11 22:34:46:3446 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:34:46:3446 [INFO] [server] Database connection established
+2025-05-11 22:34:46:3446 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:34:46:3446 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:34:46:3446 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:34:46:3446 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:34:46:3446 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:35:08:358 [INFO] [server] Initializing server...
+2025-05-11 22:35:08:358 [INFO] [server] Queue workers initialized
+2025-05-11 22:35:08:358 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:35:08:358 [INFO] [server] Database connection established
+2025-05-11 22:35:08:358 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:35:08:358 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:35:08:358 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:35:08:358 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:35:08:358 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:35:29:3529 [INFO] [server] Initializing server...
+2025-05-11 22:35:29:3529 [INFO] [server] Queue workers initialized
+2025-05-11 22:35:29:3529 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:35:29:3529 [INFO] [server] Database connection established
+2025-05-11 22:35:29:3529 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:35:29:3529 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:35:29:3529 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:35:29:3529 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:35:29:3529 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:36:05:365 [INFO] [server] Initializing server...
+2025-05-11 22:36:05:365 [INFO] [server] Queue workers initialized
+2025-05-11 22:36:05:365 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:36:05:365 [INFO] [server] Database connection established
+2025-05-11 22:36:05:365 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:36:05:365 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:36:05:365 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:36:05:365 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:36:05:365 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:36:19:3619 [INFO] [server] Initializing server...
+2025-05-11 22:36:19:3619 [INFO] [server] Queue workers initialized
+2025-05-11 22:36:19:3619 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:36:19:3619 [INFO] [server] Database connection established
+2025-05-11 22:36:19:3619 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:36:19:3619 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:36:19:3619 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:36:19:3619 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:36:19:3619 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:36:36:3636 [INFO] [server] Initializing server...
+2025-05-11 22:36:36:3636 [INFO] [server] Queue workers initialized
+2025-05-11 22:36:36:3636 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:36:36:3636 [INFO] [server] Database connection established
+2025-05-11 22:36:36:3636 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:36:36:3636 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:36:36:3636 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 22:36:36:3636 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 22:36:36:3636 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 22:36:52:3652 [INFO] [server] Initializing server...
+2025-05-11 22:36:52:3652 [INFO] [server] Queue workers initialized
+2025-05-11 22:36:52:3652 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 22:36:52:3652 [INFO] [server] Database connection established
+2025-05-11 22:36:52:3652 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 22:36:52:3652 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 22:36:52:3652 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 23:06:10:610 [INFO] [server] Initializing server...
+2025-05-11 23:06:10:610 [INFO] [server] Queue workers initialized
+2025-05-11 23:06:10:610 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 23:06:10:610 [INFO] [server] Database connection established
+2025-05-11 23:06:10:610 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 23:06:10:610 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 23:06:10:610 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 23:29:30:2930 [INFO] [server] Initializing server...
+2025-05-11 23:29:30:2930 [INFO] [server] Queue workers initialized
+2025-05-11 23:29:30:2930 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 23:29:30:2930 [INFO] [server] Database connection established
+2025-05-11 23:29:30:2930 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 23:29:30:2930 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 23:29:30:2930 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 23:29:30:2930 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 23:29:30:2930 [INFO] [server] Server running in production mode on port 3000
+2025-05-11 23:30:03:303 [INFO] [server] Initializing server...
+2025-05-11 23:30:03:303 [INFO] [server] Queue workers initialized
+2025-05-11 23:30:03:303 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-11 23:30:03:303 [INFO] [server] Database connection established
+2025-05-11 23:30:03:303 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-11 23:30:03:303 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-11 23:30:03:303 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-11 23:30:03:303 [INFO] [slack] Slack event endpoints setup complete
+2025-05-11 23:30:03:303 [INFO] [server] Server running in production mode on port 3000
+2025-05-13 23:10:00:100 [INFO] [server] Initializing server...
+2025-05-13 23:10:00:100 [INFO] [server] Queue workers initialized
+2025-05-13 23:10:00:100 [INFO] [slack] Setting up Slack event endpoints for all organizations
+2025-05-13 23:10:00:100 [INFO] [server] Database connection established
+2025-05-13 23:10:00:100 [INFO] [slack] Found 2 organizations with Slack configurations
+2025-05-13 23:10:00:100 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"6817a449e2ab38a59a0e4b8a","endpoint":"/api/slack/events/6817a449e2ab38a59a0e4b8a"}
+2025-05-13 23:10:00:100 [INFO] [slack] Slack event endpoint enabled for organization {"organizationId":"681f174adbe265be4b31d25b","endpoint":"/api/slack/events/681f174adbe265be4b31d25b"}
+2025-05-13 23:10:00:100 [INFO] [slack] Slack event endpoints setup complete
+2025-05-13 23:10:00:100 [INFO] [server] Server running in production mode on port 3000
+2025-05-13 23:17:05:175 [WARN] HTTP GET /api/admin/dashboard/metrics - 401 (9ms) {"method":"GET","url":"/api/admin/dashboard/metrics","ip":"::1","statusCode":401,"responseTime":"9ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-13 23:17:05:175 [WARN] HTTP GET /api/admin/dashboard/metrics - 401 (4ms) {"method":"GET","url":"/api/admin/dashboard/metrics","ip":"::1","statusCode":401,"responseTime":"4ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-13 23:17:22:1722 [WARN] HTTP POST /api/auth/admin/login - 401 (90ms) {"method":"POST","url":"/api/auth/admin/login","ip":"::1","statusCode":401,"responseTime":"90ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-13 23:17:40:1740 [WARN] HTTP POST /api/auth/admin/login - 401 (5ms) {"method":"POST","url":"/api/auth/admin/login","ip":"::1","statusCode":401,"responseTime":"5ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-13 23:30:48:3048 [INFO] [slack] Processing URL verification challenge {"organizationId":"6817a449e2ab38a59a0e4b8a"}
+2025-05-13 23:30:48:3048 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"message"}
+2025-05-13 23:30:50:3050 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"message"}
+2025-05-13 23:30:51:3051 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"message"}
+2025-05-13 23:30:59:3059 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"message"}
+2025-05-13 23:31:01:311 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"message"}
+2025-05-13 23:31:03:313 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"reaction_added"}
+2025-05-13 23:31:05:315 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"message"}
+2025-05-13 23:31:05:315 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"channel_joined"}
+2025-05-13 23:31:08:318 [INFO] [slack] Processing event callback {"organizationId":"6817a449e2ab38a59a0e4b8a","eventType":"channel_joined"}
+2025-05-13 23:38:57:3857 [WARN] HTTP GET /api/organizations/681f174adbe265be4b31d25b/whispers/68238a099a21f7964e4652e1/trace - 404 (30ms) {"method":"GET","url":"/api/organizations/681f174adbe265be4b31d25b/whispers/68238a099a21f7964e4652e1/trace","ip":"::1","statusCode":404,"responseTime":"30ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-13 23:38:57:3857 [WARN] HTTP GET /api/organizations/681f174adbe265be4b31d25b/whispers/68238a099a21f7964e4652e1/trace - 404 (15ms) {"method":"GET","url":"/api/organizations/681f174adbe265be4b31d25b/whispers/68238a099a21f7964e4652e1/trace","ip":"::1","statusCode":404,"responseTime":"15ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"681f174adbe265be4b31d25e"}
+2025-05-15 02:10:23:1023 [WARN] HTTP GET /api/organizations/681f174adbe265be4b31d25b/whispers/681a1039a1f8c0f6c3f977b7/trace - 401 (4ms) {"method":"GET","url":"/api/organizations/681f174adbe265be4b31d25b/whispers/681a1039a1f8c0f6c3f977b7/trace","ip":"::1","statusCode":401,"responseTime":"4ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-15 02:10:23:1023 [WARN] HTTP GET /api/organizations/681f174adbe265be4b31d25b/whispers/681a1039a1f8c0f6c3f977b7 - 401 (2ms) {"method":"GET","url":"/api/organizations/681f174adbe265be4b31d25b/whispers/681a1039a1f8c0f6c3f977b7","ip":"::1","statusCode":401,"responseTime":"2ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-15 02:10:23:1023 [WARN] HTTP GET /api/organizations/681f174adbe265be4b31d25b/whispers/681a1039a1f8c0f6c3f977b7/trace - 401 (2ms) {"method":"GET","url":"/api/organizations/681f174adbe265be4b31d25b/whispers/681a1039a1f8c0f6c3f977b7/trace","ip":"::1","statusCode":401,"responseTime":"2ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}
+2025-05-15 02:10:23:1023 [WARN] HTTP GET /api/organizations/681f174adbe265be4b31d25b/whispers/681a1039a1f8c0f6c3f977b7 - 401 (1ms) {"method":"GET","url":"/api/organizations/681f174adbe265be4b31d25b/whispers/681a1039a1f8c0f6c3f977b7","ip":"::1","statusCode":401,"responseTime":"1ms","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36","userId":"anonymous"}

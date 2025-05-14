@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="WhisprNet.ai - AI-Powered Team Intelligence, Without the Noise. Streamline communication, detect risks early, and empower teams with actionable insights." />
+    <title>WhisprNet.ai | Team Intelligence Platform</title>
+    <!-- Inline styles for fallback -->
+    <style>
+      body {
+        background-color: #0f0f1c;
+        color: #d1d5db;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        line-height: 1.5;
+      }
+      #root:empty + .fallback {
+        display: flex;
+      }
+      .fallback {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        padding: 1rem;
+      }
+      .fallback h1 {
+        color: white;
+        font-size: 3rem;
+        margin-bottom: 1rem;
+      }
+      .fallback p {
+        color: #d1d5db;
+        font-size: 1.5rem;
+        max-width: 42rem;
+        text-align: center;
+        margin-bottom: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Fallback content if JavaScript fails -->
+    <div class="fallback">
+      <h1>WhisprNet.ai</h1>
+      <p>AI-Powered Team Intelligence, Without the Noise</p>
+      <noscript>
+        <p style="color: #ff6b6b;">JavaScript is required to view this application.</p>
+      </noscript>
+    </div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

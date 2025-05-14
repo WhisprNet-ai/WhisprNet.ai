@@ -1,0 +1,23 @@
+{
+  "name": "whisprnet-slack-test-lab",
+  "version": "1.0.0",
+  "description": "Test lab for simulating Slack events in WhisprNet.ai",
+  "main": "slackEventSimulator.js",
+  "type": "module",
+  "scripts": {
+    "start": "node slackEventSimulator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "simulation",
+    "testing",
+    "metadata",
+    "events"
+  ],
+  "author": "WhisprNet.ai",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+} 
